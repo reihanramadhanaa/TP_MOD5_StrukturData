@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697390370 source:c:\codeblock c++\tp mod 5\list.cpp
+	"list.h"
+	<iostream>
+
+1697380474 c:\codeblock c++\tp mod 5\list.h
+	<iostream>
+
+1697381973 source:c:\codeblock c++\tp mod 5\main.cpp
+	<iostream>
+	"list.h"
+
